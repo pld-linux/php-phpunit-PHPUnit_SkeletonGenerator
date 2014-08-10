@@ -4,12 +4,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Tool that can generate skeleton test classes from production code classes and vice versa
 Name:		php-phpunit-PHPUnit_SkeletonGenerator
-Version:	1.2.0
-Release:	3
+Version:	1.2.1
+Release:	1
 License:	BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.phpunit.de/get/%{pearname}-%{version}.tgz
-# Source0-md5:	c752da8f8b0c604b65eb5457f965640a
+# Source0-md5:	1686e7a4e7387250d8eab12f88060931
 URL:		http://pear.phpunit.de/package/PHPUnit_SkeletonGenerator/
 BuildRequires:	php-channel(pear.phpunit.de)
 BuildRequires:	php-packagexml2cl
