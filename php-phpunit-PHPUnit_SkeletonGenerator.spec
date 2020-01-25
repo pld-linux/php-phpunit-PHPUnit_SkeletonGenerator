@@ -1,7 +1,6 @@
 %define		status		stable
 %define		pearname	PHPUnit_SkeletonGenerator
 %define		php_min_version 5.3.0
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Tool that can generate skeleton test classes from production code classes and vice versa
 Name:		php-phpunit-PHPUnit_SkeletonGenerator
 Version:	1.2.1
