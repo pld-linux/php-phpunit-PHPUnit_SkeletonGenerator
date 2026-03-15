@@ -4,7 +4,7 @@
 Summary:	%{pearname} - Tool that can generate skeleton test classes from production code classes and vice versa
 Name:		php-phpunit-PHPUnit_SkeletonGenerator
 Version:	1.2.1
-Release:	1
+Release:	2
 License:	BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.phpunit.de/get/%{pearname}-%{version}.tgz
